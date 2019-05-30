@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chen-chenglong.github.io</id>
-    <title>陈成龙的小院子</title>
-    <updated>2019-05-30T01:50:36.209Z</updated>
+    <title>陈成龙</title>
+    <updated>2019-05-30T01:52:45.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chen-chenglong.github.io"/>
     <link rel="self" href="https://chen-chenglong.github.io/atom.xml"/>
     <subtitle>记录是为了更好的反思，锻造更好的自己！</subtitle>
     <logo>https://chen-chenglong.github.io/images/avatar.png</logo>
     <icon>https://chen-chenglong.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 陈成龙的小院子</rights>
+    <rights>All rights reserved 2019, 陈成龙</rights>
     <entry>
         <title type="html"><![CDATA[自省 | 第一印象很重要]]></title>
         <id>https://chen-chenglong.github.io/post/zi-sheng-di-yi-yin-xiang-hen-chong-yao</id>
