@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chen-chenglong.github.io</id>
     <title>陈成龙的小院子</title>
-    <updated>2019-05-28T08:54:15.296Z</updated>
+    <updated>2019-05-30T01:48:24.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chen-chenglong.github.io"/>
     <link rel="self" href="https://chen-chenglong.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://chen-chenglong.github.io/images/avatar.png</logo>
     <icon>https://chen-chenglong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 陈成龙的小院子</rights>
+    <entry>
+        <title type="html"><![CDATA[自省 | 第一印象很重要]]></title>
+        <id>https://chen-chenglong.github.io/post/zi-sheng-di-yi-yin-xiang-hen-chong-yao</id>
+        <link href="https://chen-chenglong.github.io/post/zi-sheng-di-yi-yin-xiang-hen-chong-yao">
+        </link>
+        <updated>2019-05-30T01:32:43.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阅读 | 《原则》读后感]]></title>
         <id>https://chen-chenglong.github.io/post/yuedu-yuanze</id>
